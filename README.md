@@ -82,3 +82,7 @@
   
   
 ### 아이디 생성부터 로그인, 로그아웃, 장바구니, 품목 구매 등 다양한 기능을 간편하게 구현해 보았습니다.
+
+
+### Main Code
+[main.c](https://github.com/Byung-moon/shoppingmall_proj/blob/master/shopping_c.c)
